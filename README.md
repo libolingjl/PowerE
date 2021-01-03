@@ -1,0 +1,2 @@
+# PowerE
+IDE for embeded
