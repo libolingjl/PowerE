@@ -1,2 +1,2 @@
-# PQiongQi
+# QiongQi
 IDE for embeded
