@@ -1,2 +1,2 @@
-# PowerE
+# PQiongQi
 IDE for embeded
